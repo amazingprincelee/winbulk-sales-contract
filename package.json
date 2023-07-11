@@ -1,0 +1,18 @@
+{
+  "name": "winbulk-contract",
+  "version": "1.0.0",
+  "description": "the contracts of winbulk token and utilities. token contract, lottery contract and presale contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prince L. Nna (BB)",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
